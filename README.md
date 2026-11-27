@@ -1,9 +1,5 @@
 # Nexus Chat
 
-<p align="center">
-  <img src="Screenshots/chat-interface.png" alt="Nexus Chat arayüzü" width="800">
-</p>
-
 **TCP/IP tabanlı, C# ve Windows Forms ile geliştirilmiş masaüstü sohbet uygulaması.**
 
 Nexus Chat, **YMH219 – Nesneye Dayalı Programlama** dersi kapsamında geliştirilen bir istemci-sunucu (Client-Server) uygulamasıdır. İki uygulama örneğinin TCP bağlantısı kurarak gerçek zamanlı metin mesajları gönderip almasını sağlar.
@@ -24,6 +20,12 @@ Nexus Chat, **YMH219 – Nesneye Dayalı Programlama** dersi kapsamında gelişt
 - **Enter** ile mesaj gönderme
 - **Shift + Enter** ile mesaj içinde yeni satır oluşturma
 - Koyu temalı, yuvarlatılmış bileşenlere sahip Windows Forms arayüzü
+
+## Arayüz görüntüsü
+
+<p align="center">
+  <img src="Screenshots/chat-interface.png" alt="Nexus Chat arayüzü" width="800">
+</p>
 
 ## Kullanım kapsamı
 
