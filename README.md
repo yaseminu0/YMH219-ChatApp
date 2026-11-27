@@ -64,19 +64,21 @@ Mesaj aktarımında UTF-8 metin akışı ve satır sonu ayıracı kullanılır. 
 ```text
 YMH219-ChatApp/
 ├── .gitignore
+├── README.md
+├── YMH219_ChatApp.slnx
 └── YMH219_ChatApp/
-    ├── ChatClient.cs
-    ├── ChatConnection.cs
-    ├── ChatMessage.cs
-    ├── ChatProtocol.cs
-    ├── ChatServer.cs
-    ├── YMH219_ChatApp.slnx
-    └── YMH219_ChatApp/
-        ├── Form1.cs
-        ├── Form1.Designer.cs
-        ├── Form1.resx
-        ├── Program.cs
-        └── YMH219_ChatApp.csproj
+    ├── Form1.cs
+    ├── Form1.Designer.cs
+    ├── Form1.resx
+    ├── Program.cs
+    ├── YMH219_ChatApp.csproj
+    ├── Models/
+    │   └── ChatMessage.cs
+    └── Networking/
+        ├── ChatClient.cs
+        ├── ChatConnection.cs
+        ├── ChatProtocol.cs
+        └── ChatServer.cs
 ```
 
 ### Sınıfların sorumlulukları
@@ -110,7 +112,7 @@ git clone https://github.com/yaseminu0/YMH219-ChatApp.git
 ### 2. Çözüm klasörüne geçin
 
 ```powershell
-cd YMH219-ChatApp/YMH219_ChatApp
+cd YMH219-ChatApp
 ```
 
 ### 3. Projeyi derleyin
