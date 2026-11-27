@@ -1,5 +1,9 @@
 # Nexus Chat
 
+![Nexus Chat - Chat Interface](Screenshots/chat-interface.png)
+
+![Nexus Chat - Client Server Communication](Screenshots/client-server-communication.png)
+
 **TCP/IP tabanlı, C# ve Windows Forms ile geliştirilmiş masaüstü sohbet uygulaması.**
 
 Nexus Chat, **YMH219 – Nesneye Dayalı Programlama** dersi kapsamında geliştirilen bir istemci-sunucu (Client-Server) uygulamasıdır. İki uygulama örneğinin TCP bağlantısı kurarak gerçek zamanlı metin mesajları gönderip almasını sağlar.
@@ -65,6 +69,9 @@ Mesaj aktarımında UTF-8 metin akışı ve satır sonu ayıracı kullanılır. 
 YMH219-ChatApp/
 ├── .gitignore
 ├── README.md
+├── Screenshots/
+│   ├── chat-interface.png
+│   └── client-server-communication.png
 ├── YMH219_ChatApp.slnx
 ├── YMH219_ChatApp.csproj
 ├── Form1.cs
@@ -159,7 +166,8 @@ Bu kontroller geliştirme sırasında iki yerel uygulama örneğiyle manuel olar
 
 ## Geliştirici
 
-**Yasemin Ubeyd**
+**Yasemin Ubeyd**  
+**Öğrenci Numarası:** 250541603
 
 GitHub: [@yaseminu0](https://github.com/yaseminu0)
 
