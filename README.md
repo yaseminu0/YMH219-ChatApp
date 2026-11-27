@@ -66,19 +66,16 @@ YMH219-ChatApp/
 ├── .gitignore
 ├── README.md
 ├── YMH219_ChatApp.slnx
-└── YMH219_ChatApp/
-    ├── Form1.cs
-    ├── Form1.Designer.cs
-    ├── Form1.resx
-    ├── Program.cs
-    ├── YMH219_ChatApp.csproj
-    ├── Models/
-    │   └── ChatMessage.cs
-    └── Networking/
-        ├── ChatClient.cs
-        ├── ChatConnection.cs
-        ├── ChatProtocol.cs
-        └── ChatServer.cs
+├── YMH219_ChatApp.csproj
+├── Form1.cs
+├── Form1.Designer.cs
+├── Form1.resx
+├── Program.cs
+├── ChatMessage.cs
+├── ChatClient.cs
+├── ChatConnection.cs
+├── ChatProtocol.cs
+└── ChatServer.cs
 ```
 
 ### Sınıfların sorumlulukları
@@ -124,7 +121,7 @@ dotnet build YMH219_ChatApp.slnx -c Release
 ### 4. Uygulamayı çalıştırın
 
 ```powershell
-dotnet run --project YMH219_ChatApp/YMH219_ChatApp.csproj
+dotnet run --project YMH219_ChatApp.csproj
 ```
 
 Alternatif olarak `YMH219_ChatApp.slnx` dosyasını Visual Studio ile açıp **Build > Build Solution** komutunu çalıştırabilir ve uygulamayı **F5** ile başlatabilirsiniz.
