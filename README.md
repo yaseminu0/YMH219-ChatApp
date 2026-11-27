@@ -32,10 +32,10 @@ Uygulama, TCP bağlantısı üzerinden bir sunucu ve bir istemci arasında gerç
 - **Shift + Enter** ile mesaj içinde yeni satır oluşturma
 - Koyu temalı, yuvarlatılmış bileşenlere sahip Windows Forms arayüzü
 
-## Arayüz görüntüsü
+## İstemci-sunucu iletişimi
 
 <p align="center">
-  <img src="Screenshots/chat-interface.png" alt="Nexus Chat arayüzü" width="800">
+  <img src="Screenshots/client-server-communication.png" alt="Nexus Chat istemci-sunucu iletişimi" width="800">
 </p>
 
 ## Kullanım kapsamı
