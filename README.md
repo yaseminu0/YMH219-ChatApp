@@ -1,10 +1,29 @@
-# Nexus Chat
+# NEXUS CHAT
 
-**TCP/IP tabanlı, C# ve Windows Forms ile geliştirilmiş masaüstü sohbet uygulaması.**
+**TCP/IP tabanlı gerçek zamanlı masaüstü sohbet uygulaması**  
+C# • .NET 10 • Windows Forms • TCP/IP • JSON
 
-Nexus Chat, **YMH219 – Nesneye Dayalı Programlama** dersi kapsamında geliştirilen bir istemci-sunucu (Client-Server) uygulamasıdır. İki uygulama örneğinin TCP bağlantısı kurarak gerçek zamanlı metin mesajları gönderip almasını sağlar.
+![C Sharp](https://img.shields.io/badge/Language-C%23-68217A?logo=csharp&logoColor=white)
+![.NET 10](https://img.shields.io/badge/Framework-.NET%2010-512BD4)
+![Windows Forms](https://img.shields.io/badge/UI-Windows%20Forms-0078D7)
+![TCP IP](https://img.shields.io/badge/Network-TCP%2FIP-0A6A8A)
+![Student Project](https://img.shields.io/badge/Status-Student%20Project-6C63FF)
 
-> **Güncel durum:** Temel bire bir mesajlaşma akışı uygulanmış ve aynı bilgisayarda iki uygulama örneğiyle manuel olarak test edilmiştir. Bu sürüm eğitim amaçlıdır; grup sohbeti, kullanıcı kimlik doğrulaması ve şifreli iletişim kapsam dışındadır.
+---
+
+## 📌 Proje Hakkında
+
+**Nexus Chat**, Fırat Üniversitesi Yazılım Mühendisliği bölümü **YMH219 – Nesneye Dayalı Programlama** dersi kapsamında C# ve Windows Forms kullanılarak geliştirilen bir masaüstü sohbet uygulamasıdır.
+
+Uygulama, TCP bağlantısı üzerinden bir sunucu ve bir istemci arasında gerçek zamanlı metin mesajları gönderilip alınmasını sağlar. Kullanıcılar bağlantı kurabilir, mesajlaşabilir ve bağlantı durumunu arayüz üzerinden takip edebilir.
+
+## 🖼️ Uygulama Görseli
+
+<p align="center">
+  <img src="Screenshots/chat-interface.png" alt="Nexus Chat arayüzü" width="800">
+</p>
+
+---
 
 ## Özellikler
 
