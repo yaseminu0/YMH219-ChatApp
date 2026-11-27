@@ -17,14 +17,6 @@ C# • .NET 10 • Windows Forms • TCP/IP • JSON
 
 Uygulama, TCP bağlantısı üzerinden bir sunucu ve bir istemci arasında gerçek zamanlı metin mesajları gönderilip alınmasını sağlar. Kullanıcılar bağlantı kurabilir, mesajlaşabilir ve bağlantı durumunu arayüz üzerinden takip edebilir.
 
-## 🖼️ Uygulama Görseli
-
-<p align="center">
-  <img src="Screenshots/chat-interface.png" alt="Nexus Chat arayüzü" width="800">
-</p>
-
----
-
 ## Özellikler
 
 - TCP/IP üzerinden istemci-sunucu iletişimi
