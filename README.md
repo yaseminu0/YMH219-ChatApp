@@ -1,8 +1,8 @@
 # Nexus Chat
 
-![Nexus Chat - Chat Interface](Screenshots/chat-interface.png)
-
-![Nexus Chat - Client Server Communication](Screenshots/client-server-communication.png)
+<p align="center">
+  <img src="Screenshots/chat-interface.png" alt="Nexus Chat arayüzü" width="800">
+</p>
 
 **TCP/IP tabanlı, C# ve Windows Forms ile geliştirilmiş masaüstü sohbet uygulaması.**
 
